@@ -6,4 +6,4 @@ After cloning the repo:
 1. Open on VS Code
 2. npm install
 3. npm start
-4. Go to localhost:3000 from multiple tabs 
+4. Open index.html with live server
